@@ -1,21 +1,14 @@
-## Hi I'm Ehtesham Abad 👋
+# Hi, I'm Ehtesham Abad 👋
 
-<!--
-**ehteshamabad/ehteshamabad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="480" src="room.gif" alt="pixel art room" />
 
-Here are some ideas to get you started:
+software engineer, SE grad @ COMSATS Lhr<br/>
+senior software engineer @ CoOrdio - OpenBots<br/>
+previously working @ NETSOL Tech, Tower Technologies Inc.<br/>
+interested in backend development, distributed systems, applied AI, and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehteshamabad/ehteshamabad/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehteshamabad/ehteshamabad/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ehteshamabad/ehteshamabad/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="right"/>
+
+<!-- paste the icons <p> block from before here -->
+
+<!-- paste the pacman <picture> block from before here -->
