@@ -10,51 +10,55 @@ interested in backend development, distributed systems, applied AI, and data sci
 <br clear="right"/>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45" />
+  <img src="icons/csharp.svg" width="45" alt="csharp" />
+  <img src="icons/dotnetcore.svg" width="45" alt="dotnetcore" />
+  <img src="icons/dot-net.svg" width="45" alt="dot-net" />
+  <img src="icons/blazor.svg" width="45" alt="blazor" />
+  <img src="icons/nuget.svg" width="45" alt="nuget" />
+  <img src="icons/xamarin.svg" width="45" alt="xamarin" />
+  <img src="icons/powershell.svg" width="45" alt="powershell" />
+  <img src="icons/visualstudio.svg" width="45" alt="visualstudio" />
+  <img src="icons/vscode.svg" width="45" alt="vscode" />
+  <img src="icons/rider.svg" width="45" alt="rider" />
+  <img src="icons/azure.svg" width="45" alt="azure" />
+  <img src="icons/azuredevops.svg" width="45" alt="azuredevops" />
+  <img src="icons/githubactions.svg" width="45" alt="githubactions" />
+  <img src="icons/git.svg" width="45" alt="git" />
+  <br/>
+  <img src="icons/microsoftsqlserver.svg" width="45" alt="microsoftsqlserver" />
+  <img src="icons/azuresqldatabase.svg" width="45" alt="azuresqldatabase" />
+  <img src="icons/postgresql.svg" width="45" alt="postgresql" />
+  <img src="icons/mysql.svg" width="45" alt="mysql" />
+  <img src="icons/sqlite.svg" width="45" alt="sqlite" />
+  <img src="icons/oracle.svg" width="45" alt="oracle" />
+  <img src="icons/mongodb.svg" width="45" alt="mongodb" />
+  <img src="icons/redis.svg" width="45" alt="redis" />
+  <img src="icons/rabbitmq.svg" width="45" alt="rabbitmq" />
+  <img src="icons/apachekafka.svg" width="45" alt="apachekafka" />
+  <img src="icons/docker.svg" width="45" alt="docker" />
+  <img src="icons/kubernetes.svg" width="45" alt="kubernetes" />
+  <img src="icons/terraform.svg" width="45" alt="terraform" />
+  <img src="icons/postman.svg" width="45" alt="postman" />
+  <br/>
+  <img src="icons/typescript.svg" width="45" alt="typescript" />
+  <img src="icons/python.svg" width="45" alt="python" />
+  <img src="icons/cplusplus.svg" width="45" alt="cplusplus" />
+  <img src="icons/java.svg" width="45" alt="java" />
+  <img src="icons/spring.svg" width="45" alt="spring" />
+  <img src="icons/nodejs.svg" width="45" alt="nodejs" />
+  <img src="icons/express.svg" width="45" alt="express" />
+  <img src="icons/react.svg" width="45" alt="react" />
+  <img src="icons/nextjs.svg" width="45" alt="nextjs" />
+  <img src="icons/redux.svg" width="45" alt="redux" />
+  <img src="icons/angular.svg" width="45" alt="angular" />
+  <img src="icons/graphql.svg" width="45" alt="graphql" />
+  <img src="icons/pytorch.svg" width="45" alt="pytorch" />
+  <img src="icons/swagger.svg" width="45" alt="swagger" />
+  <img src="icons/jira.svg" width="45" alt="jira" />
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ehteshamabad/ehteshamabad/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehteshamabad/ehteshamabad/output/pacman-contri
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ehteshamabad/ehteshamabad/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ehteshamabad/ehteshamabad/output/pacman-contribution-graph.svg">
+</picture>
