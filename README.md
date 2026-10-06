@@ -31,8 +31,6 @@ interested in backend development, distributed systems, applied AI.
   <img src="icons/oracle.svg" width="45" alt="oracle" />
   <img src="icons/mongodb.svg" width="45" alt="mongodb" />
   <img src="icons/redis.svg" width="45" alt="redis" />
-  <img src="icons/rabbitmq.svg" width="45" alt="rabbitmq" />
-  <img src="icons/apachekafka.svg" width="45" alt="apachekafka" />
   <img src="icons/docker.svg" width="45" alt="docker" />
   <img src="icons/kubernetes.svg" width="45" alt="kubernetes" />
   <img src="icons/postman.svg" width="45" alt="postman" />
@@ -43,7 +41,6 @@ interested in backend development, distributed systems, applied AI.
   <img src="icons/spring.svg" width="45" alt="spring" />
   <img src="icons/nodejs.svg" width="45" alt="nodejs" />
   <img src="icons/react.svg" width="45" alt="react" />
-  <img src="icons/nextjs.svg" width="45" alt="nextjs" />
   <img src="icons/redux.svg" width="45" alt="redux" />
   <img src="icons/angular.svg" width="45" alt="angular" />
   <img src="icons/graphql.svg" width="45" alt="graphql" />
