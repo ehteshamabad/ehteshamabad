@@ -5,7 +5,7 @@
 software engineer, se grad @ comsats lahore<br/>
 senior software engineer @ coordio - openbots<br/>
 prev swe @ netsol tech, tower technologies inc.<br/>
-interested in backend development, distributed systems, applied AI, and data science.
+interested in backend development, distributed systems, applied AI.
 
 <br clear="right"/>
 
@@ -19,7 +19,6 @@ interested in backend development, distributed systems, applied AI, and data sci
   <img src="icons/powershell.svg" width="45" alt="powershell" />
   <img src="icons/visualstudio.svg" width="45" alt="visualstudio" />
   <img src="icons/vscode.svg" width="45" alt="vscode" />
-  <img src="icons/rider.svg" width="45" alt="rider" />
   <img src="icons/azure.svg" width="45" alt="azure" />
   <img src="icons/azuredevops.svg" width="45" alt="azuredevops" />
   <img src="icons/githubactions.svg" width="45" alt="githubactions" />
@@ -36,7 +35,6 @@ interested in backend development, distributed systems, applied AI, and data sci
   <img src="icons/apachekafka.svg" width="45" alt="apachekafka" />
   <img src="icons/docker.svg" width="45" alt="docker" />
   <img src="icons/kubernetes.svg" width="45" alt="kubernetes" />
-  <img src="icons/terraform.svg" width="45" alt="terraform" />
   <img src="icons/postman.svg" width="45" alt="postman" />
   <img src="icons/typescript.svg" width="45" alt="typescript" />
   <img src="icons/python.svg" width="45" alt="python" />
@@ -44,13 +42,11 @@ interested in backend development, distributed systems, applied AI, and data sci
   <img src="icons/java.svg" width="45" alt="java" />
   <img src="icons/spring.svg" width="45" alt="spring" />
   <img src="icons/nodejs.svg" width="45" alt="nodejs" />
-  <img src="icons/express.svg" width="45" alt="express" />
   <img src="icons/react.svg" width="45" alt="react" />
   <img src="icons/nextjs.svg" width="45" alt="nextjs" />
   <img src="icons/redux.svg" width="45" alt="redux" />
   <img src="icons/angular.svg" width="45" alt="angular" />
   <img src="icons/graphql.svg" width="45" alt="graphql" />
-  <img src="icons/pytorch.svg" width="45" alt="pytorch" />
   <img src="icons/swagger.svg" width="45" alt="swagger" />
   <img src="icons/jira.svg" width="45" alt="jira" />
 </p>
