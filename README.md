@@ -24,7 +24,6 @@ interested in backend development, distributed systems, applied AI, and data sci
   <img src="icons/azuredevops.svg" width="45" alt="azuredevops" />
   <img src="icons/githubactions.svg" width="45" alt="githubactions" />
   <img src="icons/git.svg" width="45" alt="git" />
-  <br/>
   <img src="icons/microsoftsqlserver.svg" width="45" alt="microsoftsqlserver" />
   <img src="icons/azuresqldatabase.svg" width="45" alt="azuresqldatabase" />
   <img src="icons/postgresql.svg" width="45" alt="postgresql" />
@@ -39,7 +38,6 @@ interested in backend development, distributed systems, applied AI, and data sci
   <img src="icons/kubernetes.svg" width="45" alt="kubernetes" />
   <img src="icons/terraform.svg" width="45" alt="terraform" />
   <img src="icons/postman.svg" width="45" alt="postman" />
-  <br/>
   <img src="icons/typescript.svg" width="45" alt="typescript" />
   <img src="icons/python.svg" width="45" alt="python" />
   <img src="icons/cplusplus.svg" width="45" alt="cplusplus" />
